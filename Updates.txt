@@ -1,0 +1,11 @@
+10/2/22
+Created/modified 5 images for testing in game. (My son was asking to make images for the game. So waiting for him to create some).
+Decided to use pygame for the GUI in the game.
+Got some basic coding done. (Long way to go).
+
+WORKING ON.
+1. Still need sounds.
+2. A lot more code to add.
+3. Get images from son and switch out with images I have.
+4. Create a user manual.
+5. Update GitHub.
